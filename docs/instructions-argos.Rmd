@@ -69,6 +69,20 @@ Each dataset owner or responsible individual must provide information regarding 
 
 <br>
 
+## Adding datasets
+
+To add a dataset in Argos, click on _My descriptions_ on the sidebar on the left of the page
+
+![](Images/7a_Description.png)
+
+Choose the description called _SubTask X.X.X - Template Description for Zenodo Datasets(Click Copy Description)_
+
+![](Images/7_Description_template.png)
+
+Create a copy of the template by clicking on the clone button 
+
+![](Images/7c_Description_clone.png)
+
 
 ## Expected datasets 
 <a name="jump"></a>
