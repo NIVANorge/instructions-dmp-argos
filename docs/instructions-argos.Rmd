@@ -121,4 +121,4 @@ On Argos, click on _My descriptions_ on the sidebar on the left of the page|![](
 
 <p>
 
-**Contact us if you have any questions or suggestions on [DMP support channel on Teams](https://teams.microsoft.com/l/channel/19%3A718831581f064600909b56c692c91901%40thread.tacv2/DMP%20support%20(Zenodo%20and%20Argos)?groupId=97cca8db-7316-43bf-a8d3-a7a275465cda&tenantId=a7c4c1dd-d500-4316-8296-3dd9569b49d1)!**
+**Contact us if you have any questions or suggestions on our [DMP support channel on Teams](https://teams.microsoft.com/l/channel/19%3A718831581f064600909b56c692c91901%40thread.tacv2/DMP%20support%20(Zenodo%20and%20Argos)?groupId=97cca8db-7316-43bf-a8d3-a7a275465cda&tenantId=a7c4c1dd-d500-4316-8296-3dd9569b49d1)!**
