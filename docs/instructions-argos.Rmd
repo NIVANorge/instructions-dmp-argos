@@ -107,7 +107,7 @@ SubTask 3.3.2| Mesocosm experiments|VU, SYKE, UL |[Changes in soil invertebrate 
 |
 
 
-## Adding other datasets
+## Other datasets
 
 If you wish to add a dataset that is not included on the table above, upload it to our [PAPILLONS community in Zenodo](https://zenodo.org/communities/papillons/records?q=&l=list&p=1&s=10&sort=newest). Instructions on how to upload data to Zenodo can be found [here](https://nivanorge.github.io/instructions-zenodo). 
 
