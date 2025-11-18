@@ -34,3 +34,4 @@ vignettes/*.pdf
 # Generated files for testing
 instructions-argos.html
 instructions-argos.nb.html
+.Rproj.user
